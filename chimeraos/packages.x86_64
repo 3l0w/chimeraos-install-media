@@ -31,3 +31,6 @@ wget
 zsh
 frzr
 networkmanager
+mkinitcpio-nfs-utils
+nbd
+wifirst

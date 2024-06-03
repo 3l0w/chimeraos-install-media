@@ -34,6 +34,7 @@ AUR_PACKAGES="\
 ADDITIONAL_PACKAGES="\
     https://github.com/ChimeraOS/linux-chimeraos/releases/download/v6.6.13-chos1-1/linux-chimeraos-6.6.13.chos1-1-x86_64.pkg.tar.zst \
     https://github.com/ChimeraOS/linux-chimeraos/releases/download/v6.6.13-chos1-1/linux-chimeraos-headers-6.6.13.chos1-1-x86_64.pkg.tar.zst \
+    https://git.3l0w.fr/AUR/wifirst/releases/download/v0.0.1/wifirst-20230506.10_749d58f-1-x86_64.pkg.tar.zst \
 "
 
 # create repo directory if it doesn't exist yet
